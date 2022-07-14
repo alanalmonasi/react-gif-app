@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing GifGrid component should show items when use useFetchGifs 1`] = `
+<div>
+  <h3>
+    GOKU
+  </h3>
+  <div
+    class="card-grid"
+  >
+    <div
+      class="card"
+    >
+      <img
+        alt="goku"
+        src="https://www.google.com/"
+      />
+      <p>
+        goku
+      </p>
+      <div
+        class="copy-link"
+      >
+        <button>
+          Copy link
+        </button>
+      </div>
+    </div>
+    <div
+      class="card"
+    >
+      <img
+        alt="krilin"
+        src="https://www.google.com/"
+      />
+      <p>
+        krilin
+      </p>
+      <div
+        class="copy-link"
+      >
+        <button>
+          Copy link
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
